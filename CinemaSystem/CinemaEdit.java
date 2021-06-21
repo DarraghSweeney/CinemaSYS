@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 /**
  * A class that holds the CinemaEditWindow.
- * Through thi window you can select which action you would liek to perform
+ * Through this window you can select which action you would like to perform
  * to edit the system
  */
 public class CinemaEdit extends JFrame {
